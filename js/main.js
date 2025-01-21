@@ -35,7 +35,7 @@ $(function () {
   // page loading
   $(document).ready(function () {
     document.getElementById("copyright").innerHTML =
-      "© " + new Date().getFullYear() + " Angel Agustin A.";
+      "© " + new Date().getFullYear() + "Angel Alfonzo.";
     anime({
       targets: ".art-preloader .art-preloader-content",
       opacity: [0, 1],
